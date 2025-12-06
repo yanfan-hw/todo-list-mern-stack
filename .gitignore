@@ -1,0 +1,13 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Optional npm cache directory
+.npm
+
+### WebStorm ###
+.idea
+
+# vscode
+.vscode
